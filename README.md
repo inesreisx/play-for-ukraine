@@ -1,1 +1,1 @@
-# play-for-ukraine
+# Play for Ukraine 🇺🇦
