@@ -1,6 +1,6 @@
 _games = [
     { name: 'Cars Eats Car Evil Cars', img: 'https://smokoko.com/upload/content/nIM7Oki0.jpg', url: 'https://www.crazygames.com/game/car-eats-car-evil-cars' },
-    { name: 'Ukrainian games mylanguages.org', img: 'http://127.0.0.1:5500/Ukrainian-games-mylanguages.org.png', url: 'https://mylanguages.org/ukrainian_games.php' },
+    { name: 'Ukrainian games mylanguages.org', img: 'https://inesreisx.github.io/play-for-ukraine/Ukrainian-games-mylanguages.org.png', url: 'https://mylanguages.org/ukrainian_games.php' },
     { name: 'Cinque Terre', img: 'https://ain.capital/wp-content/uploads/2022/05/photo_2022-05-17_12-33-32-1.jpg', url: 'https://ua.adact.me/help' },
     { name: 'Slava Ukraini game', img: 'https://img.itch.zone/aW1nLzg5OTQ1NjUucG5n/315x250%23c/RRY18k.png', url: 'https://africacrossgames.itch.io/slava-ukraini' },
     { name: 'Colors of Motanka', img: 'https://img.itch.zone/aW1nLzk0Mzg5MTMuanBn/315x250%23c/f6vsYi.jpg', url: 'https://xardox.itch.io/colors-of-motanka' },
@@ -14,5 +14,16 @@ _games = [
     { name: '300', img: 'https://img.itch.zone/aW1nLzg3NDM3NTMucG5n/315x250%23c/ukEVIN.png', url: 'https://lunariusis.itch.io/300' },
     { name: 'No to war in Ukraine', img: 'https://img.itch.zone/aW1nLzgzNzA5NzkuZ2lm/315x250%23cm/4jwkGe.gif', url: 'https://boticelly.itch.io/no-to-war-in-ukraine' },
     { name: 'Ghost of Ukraine', img: 'https://img.itch.zone/aW1nLzkzOTEzNDYucG5n/315x250%23c/n7VH%2Bg.png', url: 'https://staryshko.itch.io/ghost-of-ukraine' },
-    { name: 'Cinque Terre', img: 'https://media.istockphoto.com/vectors/thumbnail-image-vector-graphic-vector-id1147544807?k=20&m=1147544807&s=612x612&w=0&h=pBhz1dkwsCMq37Udtp9sfxbjaMl27JUapoyYpQm0anc=', url: 'https://media.istockphoto.com/vectors/thumbnail-image-vector-graphic-vector-id1147544807?k=20&m=1147544807&s=612x612&w=0&h=pBhz1dkwsCMq37Udtp9sfxbjaMl27JUapoyYpQm0anc=' }
+    { name: 'Grand Theft Tractor', img: 'https://img.itch.zone/aW1nLzEwMDMyNTE2LnBuZw==/315x250%23c/YtI%2Fu6.png', url: 'https://pgmstudio.itch.io/grand-theft-tractor' },
+    { name: 'Ukraine', img: 'https://img.itch.zone/aW1nLzgzMDYyMzYucG5n/315x250%23c/hw6IJs.png', url: 'https://zanshin2053.itch.io/ukraine' },
+    { name: 'Peace in Ukraine', img: 'https://img.itch.zone/aW1nLzg0NzI1NzIucG5n/315x250%23c/r4x0iL.png', url: 'https://viriato07.itch.io/peace-in-ukraine' },
+    { name: 'Save the Ukraine', img: 'https://img.itch.zone/aW1nLzg0NzY1NDAucG5n/315x250%23c/LxFWsR.png', url: 'https://huseyinsari.itch.io/save-the-ukraine' },
+    { name: 'Eng UK Teamentry', img: 'https://img.itch.zone/aW1nLzY0Mjk5MjYucG5n/315x250%23c/zH8d8v.png', url: 'https://annbush.itch.io/eng-uk-teamentry' },
+    { name: 'Misinformation', img: 'https://img.itch.zone/aW1nLzQ3NDE2NTAuZ2lm/315x250%23cm/GG4aZE.gif', url: 'https://thedesign.itch.io/misinformation' },
+    { name: 'Rukavychka', img: 'https://img.itch.zone/aW1nLzk0MjczMTAucG5n/315x250%23c/l7qsTN.png', url: 'https://holypangolin.itch.io/rukavychka' },
+    { name: 'Ukraine 2022', img: 'https://img.itch.zone/aW1nLzc4NjY5OTUucG5n/315x250%23c/cjUxkz.png', url: 'https://africacrossgames.itch.io/ukraine-2022' },
+    { name: 'Put in plinker', img: 'https://img.itch.zone/aW1nLzgzMDc5MzMuanBn/315x250%23c/kqYx1N.jpg', url: 'https://innov8.itch.io/put-in-plinker' },
+    { name: 'When I go Outside Stop the War', img: 'https://img.itch.zone/aW1nLzg0MzU1ODYucG5n/315x250%23c/qszyEP.png', url: 'https://korovan-games.itch.io/when-i-go-outside-stop-the-war' },
+    { name: 'Retake the Snake The Russo Ukraine War at Sea', img: 'https://img.itch.zone/aW1nLzkzODE4OTUucG5n/315x250%23c/veBXBe.png', url: 'https://africacrossgames.itch.io/retake-the-snake-the-russo-ukraine-war-at-sea' },
+    { name: 'Ukraine vs Orcz', img: 'https://img.itch.zone/aW1nLzk0MTgwMTUucG5n/315x250%23c/9td5zg.png', url: 'https://mortarman.itch.io/ukraine-vs-orcz' }
 ];
