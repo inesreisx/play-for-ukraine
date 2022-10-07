@@ -50,7 +50,7 @@
         background-color: #0096ff;
         border: none;
         color: white;
-        padding: 15px 32px;
+        padding: 20px 32px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
