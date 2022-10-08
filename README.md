@@ -13,7 +13,6 @@ Feel free to contribute.
 
 WIP:
 - Add more games
-- Add favicon
 - Add more articles
 - Add studios and devs
 
